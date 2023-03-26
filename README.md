@@ -21,7 +21,7 @@
 
 
 Install the program :
-```py
+```sh
 git clone https://github.com/TheCuteOwl/Amino-Boxes-But-Better.git
 ```
 
@@ -30,7 +30,7 @@ How to install requirements :
 pip install -r requirements.txt
 ```
 Start the script
-```py
+```sh
 python main.py
 ```
 
