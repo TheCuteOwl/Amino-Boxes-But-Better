@@ -2,6 +2,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
+ADDING DOCUMENTATION LATER
+
 ## Amino-Box Alternative
 
 * This repository was created for those who struggle with or dislike using Amino-Boxes from zeviel. Our goal is to provide a better working and visually appealing alternative.
